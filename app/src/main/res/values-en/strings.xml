@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">testnewapp</string>
+    <string name="main_title">"List element %1$s"</string>
+</resources>

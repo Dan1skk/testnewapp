@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testnewapp</string>
+    <string name="main_title">"Элемент списка %1$s"</string>
+</resources>
