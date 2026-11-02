@@ -1,4 +1,4 @@
-package com.example.testnewapp
+package com.example.testnewapp.navigation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -18,6 +18,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
+import com.example.testnewapp.R
 
 @Composable
 fun CustomBottomBar(

@@ -1,4 +1,4 @@
-package com.example.testnewapp
+package com.example.testnewapp.navigation
 
 sealed class Routes(val route: String) {
     object MainScreen : Routes("MainScreen")
