@@ -56,9 +56,17 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
 
-
     //ktor koin
     implementation("io.ktor:ktor-client-android:3.6.1")
     implementation("io.insert-koin:koin-android")
     implementation("io.insert-koin:koin-androidx-compose:4.2.2")
+
+    // haze
+    implementation("dev.chrisbanes.haze:haze:2.1.0")
+    implementation("dev.chrisbanes.haze:haze-blur:2.1.0")
+    implementation("dev.chrisbanes.haze:haze-blur-materials:2.1.0")
+    implementation("dev.chrisbanes.haze:haze-glass:2.1.0")
+    implementation("dev.chrisbanes.haze:haze-glass-material3:2.1.0")
+
+    implementation("androidx.compose.material:material-icons-extended")
 }
